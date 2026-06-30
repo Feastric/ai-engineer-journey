@@ -1,3 +1,4 @@
+#30 June 2026 work
 name=input('Enter your name')
 study=int(input('Study minutes today: '))
 exercise=int(input("Workout minutes today: "))
